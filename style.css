@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white
+}
